@@ -1,7 +1,3 @@
-Here's a possible README file for your **RC Car Project with ATmega32**. It includes an overview, a project structure breakdown, key features, and setup instructions.
-
----
-
 # 🚗 RC Car Project with ATmega32
 
 This repository contains the implementation of a remote-controlled (RC) car using the **ATmega32 microcontroller**. The project utilizes various peripherals and drivers to control the car's motion, handle inputs, and provide feedback using sensors and actuators.
